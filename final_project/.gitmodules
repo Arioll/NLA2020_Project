@@ -1,0 +1,9 @@
+[submodule "linformer_pytorch"]
+	path = linformer_pytorch
+	url = https://github.com/tatp22/linformer-pytorch
+[submodule "performer_pytorch"]
+	path = performer_pytorch
+	url = https://github.com/lucidrains/performer-pytorch
+[submodule "hawkes_process"]
+	path = hawkes_process
+	url = https://github.com/anordertoreclaim/Transformer-Hawkes-Process
